@@ -18,7 +18,7 @@ BurnOut is an easy to use application that keeps track of a user's daily calorie
 
 # Table of Contents  
 
-- [Why use BurnOut?]
+- [Why use BurnOut?](#Why use burnout?)
 - [Implementation](#implementation)
 - [TechStack Used for the Development of Project:](#techstack-used-for-the-development-of-project)
 - [Core Functionalities of the Application:](#core-functionalities)
